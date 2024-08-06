@@ -10,7 +10,7 @@ module "shubham-vpc" {
 
   vpc_config = {
     cidr_block_vpc = "10.0.0.0/16"
-    name = "< Your VPC name >"
+    name = "shubham-vpc"
   }
 
   subnet_config = {  

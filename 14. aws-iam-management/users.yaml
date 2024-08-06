@@ -1,0 +1,7 @@
+users:
+- username: "jatin"
+  roles: [ "AdministratorAccess" ]
+- username: "ashu"
+  roles: [ "AmazonEC2FullAccess" ]
+- username: "vishakha"
+  roles: [ "AmazonS3FullAccess", "AmazonEC2FullAccess" ]

@@ -1,5 +1,5 @@
 # VPC
-output "vpc_ip" {
+output "vpc_id" {
     value = aws_vpc.shubham-vpc.id
 }
 
